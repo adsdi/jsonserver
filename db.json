@@ -1,0 +1,66 @@
+{
+    "clients": [
+        {
+            "id": "1",
+            "clientOrg": "Aaron's Company",
+            "contactFirstName": "Aaron",
+            "contactLastName": "Anderson",
+            "contactEmailAddress": "aanderson.gmail.com",
+            "contactPhoneNumber": "901-555-1234"
+        },
+        {
+            "id": "2",
+            "clientOrg": "Bill's Company",
+            "contactFirstName": "Bill",
+            "contactLastName": "Blevins",
+            "contactEmailAddress": "bblevens.gmail.com",
+            "contactPhoneNumber": "901-555-2345"
+        },
+        {
+            "id": "3",
+            "clientOrg": "Chris' Company",
+            "contactFirstName": "Chris",
+            "contactLastName": "Carmichael",
+            "contactEmailAddress": "ccarmichael.gmail.com",
+            "contactPhoneNumber": "901-555-3456"
+        },
+        {
+            "id": "4",
+            "clientOrg": "Dave's Company",
+            "contactFirstName": "Dave",
+            "contactLastName": "Drabek",
+            "contactEmailAddress": "ddrabek.gmail.com",
+            "contactPhoneNumber": "901-555-4567"
+        },
+        {
+            "id": "5",
+            "clientOrg": "Ed's Company",
+            "contactFirstName": "Ed",
+            "contactLastName": "Easton",
+            "contactEmailAddress": "eeaston.gmail.com",
+            "contactPhoneNumber": "901-555-5678"
+        }
+    ],
+    "surveys": [
+        {
+            "id": "1",
+            "surveyName": "Survey 1"
+        },
+        {
+            "id": "2",
+            "surveyName": "Survey 2"
+        },
+        {
+            "id": "3",
+            "surveyName": "Survey 3"
+        },
+        {
+            "id": "4",
+            "surveyName": "Survey 4"
+        },
+        {
+            "id": "5",
+            "surveyName": "Survey 5"
+        }
+    ]
+}
